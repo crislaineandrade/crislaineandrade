@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I am Crislaine Andrade</h1>
-<h3 align="center">Recently graduated from a Full Stack Web Development bootcamp and now starting my Computer Science degree. I love exploring new technologies, turning ideas into functional applications, and continuously sharpening my skills through hands-on projects.</h3>
+<h1>Hello 👋, I am Crislaine Andrade</h1>
 
-- 🌱 I am currently learning **Artificial intelligence**
+<p>Recently graduated from a Full Stack Web Development bootcamp at Tripleten and now starting my Computer Science degree. I love exploring new technologies, turning ideas into functional applications, and continuously sharpening my skills through hands-on projects.</p>
 
-- 📫 How to reach me **c.mrochaandrade@gmail.com**
+<p>In my projects, I have developed skills in JavaScript, React.js, Node.js, Express.js, MongoDB, REST APIs, Git & GitHub, databases, authentication, HTML, and CSS.
+</p>
 
-- ⚡ Fun fact **I love solving new and different Rubik's cubes.**
+<p>Currently I am deepening my knowledge in: advanced React and Node.js development, and starting to learn Artificial Intelligence (AI).</p>
+
+<p>Certifications: Introduction to Computer Science and Programming Using Python by MITx, where I strengthened my skills in Python, algorithms, problem-solving, and computational thinking.</p>
+
+<p>Fun fact: I love solving new and different Rubik's cubes</p>
+
+
+  📫 How to reach me **c.mrochaandrade@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
